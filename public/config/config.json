@@ -10,7 +10,7 @@
   "SYMBOL": "SKY",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/test573452135123",
